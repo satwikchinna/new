@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "socialapp", "socialapp\socialapp.pyproj", "{5FF8BFBD-49D4-4636-AED4-6106263F48FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FF8BFBD-49D4-4636-AED4-6106263F48FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF8BFBD-49D4-4636-AED4-6106263F48FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF8BFBD-49D4-4636-AED4-6106263F48FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF8BFBD-49D4-4636-AED4-6106263F48FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F60A49EA-261F-4D5F-B5A3-0F0B435CE356}
+	EndGlobalSection
+EndGlobal
